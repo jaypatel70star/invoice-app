@@ -206,6 +206,7 @@ td:nth-child(5) {
   min-height: 80px;
   break-inside: avoid;
   page-break-inside: avoid;
+  margin-top: 60px;
 }
 
 .footer {
